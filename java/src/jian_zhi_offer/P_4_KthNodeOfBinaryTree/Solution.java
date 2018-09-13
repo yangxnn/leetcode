@@ -1,6 +1,6 @@
 package jian_zhi_offer.P_4_KthNodeOfBinaryTree;
 
-import tools.tree.pojo.TreeNode;
+import pojo.tree.TreeNode;
 
 import java.util.Stack;
 

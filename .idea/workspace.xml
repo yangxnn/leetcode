@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fddd0403-1117-44e3-b162-d7aa916e86f0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/sort/时间复杂度.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/jian_zhi_offer/P_2_PathOfMatrix/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/jian_zhi_offer/P_5_ShuJuLiuZhongDeZhongWeiShu/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/java/out/production/java/jian_zhi_offer/P_5_ShuJuLiuZhongDeZhongWeiShu/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/work/wangyi/Main_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/java/out/production/java/work/wangyi/Main_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/jian_zhi_offer/P_5_ShuJuLiuZhongDeZhongWeiShu/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/jian_zhi_offer/P_5_ShuJuLiuZhongDeZhongWeiShu/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,14 +29,18 @@
         <entry file="file://$PROJECT_DIR$/java/src/jian_zhi_offer/P_2_PathOfMatrix/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="80" lean-forward="true" selection-start-line="21" selection-start-column="80" selection-end-line="21" selection-end-column="80" />
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/src/jian_zhi_offer/P_2_PathOfMatrix/Main.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
@@ -88,6 +91,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,11 +144,17 @@
               <item name="jian_zhi_offer" type="462c0819:PsiDirectoryNode" />
               <item name="P_2_PathOfMatrix" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -222,14 +232,16 @@
       <updated>1535978608326</updated>
       <workItem from="1535978610002" duration="1007000" />
       <workItem from="1536062020379" duration="1268000" />
+      <workItem from="1536575866687" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2275000" />
+    <option name="totallyTimeSpent" value="2309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1867" y="-256" width="1771" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -266,6 +278,34 @@
     <entry file="file://$PROJECT_DIR$/files/sort/时间复杂度.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/jian_zhi_offer/P_2_PathOfMatrix/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/jian_zhi_offer/P_1_RangeOfRobot/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/jian_zhi_offer/P_2_PathOfMatrix/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/jian_zhi_offer/P_2_PathOfMatrix/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/sort/时间复杂度.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
           <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
@@ -288,7 +328,7 @@
     <entry file="file://$PROJECT_DIR$/java/src/jian_zhi_offer/P_2_PathOfMatrix/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="80" lean-forward="true" selection-start-line="21" selection-start-column="80" selection-end-line="21" selection-end-column="80" />
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -296,7 +336,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/jian_zhi_offer/P_2_PathOfMatrix/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
